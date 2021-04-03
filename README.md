@@ -1,4 +1,7 @@
-# AngularAdminx
+# AngularHighCharts Admin
+
+![alt text](https://github.com/suthichalab/angularhighcharts-admin/blob/master/angularhighcharts-admin.png?raw=true)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
